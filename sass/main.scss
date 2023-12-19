@@ -1,0 +1,11 @@
+@use "./base";
+@use "./grid";
+// @use "./grid-2";
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border: 1px solid #ccc;
+}
